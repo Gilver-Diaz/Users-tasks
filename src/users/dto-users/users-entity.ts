@@ -1,6 +1,6 @@
 export class users {
-  id: string;
-  name: string;
-  email: string;
-  password: number;
+  id: 2;
+  name: 'Gilver';
+  email: 'gilver@gmail.com';
+  password: 'hola1234';
 }
